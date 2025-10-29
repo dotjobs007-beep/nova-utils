@@ -490,15 +490,6 @@
       "desktopOnly": true
     },
     {
-      "name": "Mangata X (Desktop mode)",
-      "icon": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/icons/dapps/dapps/color/MangataX.svg",
-      "url": "https://app.mangata.finance/",
-      "categories": [
-        "staking"
-      ],
-      "desktopOnly": true
-    },
-    {
       "name": "Zenlink",
       "icon": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/icons/dapps/dapps/color/Zenlink.svg",
       "url": "https://app.zenlink.pro",
@@ -788,14 +779,6 @@
       ]
     },
     {
-      "name": "Polimec",
-      "icon": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/icons/dapps/dapps/color/Polimec.svg",
-      "url": "https://app.polimec.org/",
-      "categories": [
-        "utilities"
-      ]
-    },
-    {
       "name": "DOTNIGHT - TOKEN2049",
       "icon": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/icons/dapps/dapps/color/DotNight.svg",
       "url": "https://dotnight.unique.network/",
@@ -934,7 +917,24 @@
         "staking"
       ]
     },
-        {
+    {
+      "name": "Chaotic",
+      "icon": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/icons/dapps/dapps/color/Chaotic.svg",
+      "url": "https://beta.chaotic.art/",
+      "categories": [
+        "art"
+      ]
+    },
+    {
+      "name": "WUD Universe",
+      "url": "https://wuduniverse.xyz/",
+      "icon": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/icons/dapps/dapps/color/WudUniverse.png",
+      "categories": [
+        "gaming",
+        "social"
+      ]
+    },
+       {
       "name": "Dotjobs",
       "url": "https://dotjobs.online/",
       "icon": "https://res.cloudinary.com/dk06cndku/image/upload/v1761740479/dotjobs_logo_mwqaoj.svg",
