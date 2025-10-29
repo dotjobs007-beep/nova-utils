@@ -933,6 +933,15 @@
         "evm",
         "staking"
       ]
+    },
+        {
+      "name": "Dotjobs",
+      "url": "https://dotjobs.online/",
+      "icon": "https://res.cloudinary.com/dk06cndku/image/upload/v1761740479/dotjobs_logo_mwqaoj.svg",
+      "categories": [
+        "social",
+        "utilities"
+      ]
     }
   ]
 }
